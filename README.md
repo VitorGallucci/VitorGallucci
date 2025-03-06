@@ -1,6 +1,6 @@
 # Olá, sou o Vitor Gallucci! 👋
 
-### Desenvolvedor | Estudante | Apaixonado por Tecnologia 🤖💻
+### Desenvolvedor Full-Stack | Estudante | Apaixonado por Tecnologia 🤖💻
 
 Bem-vindo ao meu perfil no GitHub! Sou formado em **Tecnologia de Inteligência Artificial Aplicada** pela **PUCPR** e atualmente estou cursando **Análise e Desenvolvimento de Sistemas**, também pela **PUCPR**. Tenho 20 anos e uma grande paixão por tecnologia, especialmente no desenvolvimento de soluções inovadoras.
 
