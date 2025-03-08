@@ -17,7 +17,7 @@ Tenho experiência e gosto de trabalhar com as seguintes tecnologias:
   - React
   
 - **Back-end:**
-  - Java
+  - C#
   - Python
   
 - **Outros:**
